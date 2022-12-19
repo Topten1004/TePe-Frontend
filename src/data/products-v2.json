@@ -1,0 +1,205 @@
+[
+  {
+    "id": "1",
+    "title": {
+      "en": "Interdental Brush™",
+      "sv": "Interdental Brush™",
+      "da": "Interdental Brush™"
+    },
+    "catImg": "orange.png",
+    "data": [
+      {
+        "id": "1:1",
+        "name": {
+          "en": "Pink",
+          "sv": "Rosa",
+          "da": "Lyserød"
+        },
+        "size": "0.4",
+        "hex": "#DF6997"
+      },
+      {
+        "id": "1:2",
+        "name": {
+          "en": "Orange",
+          "sv": "Orange",
+          "da": "Orange"
+        },
+        "size": "0.45",
+        "hex": "#E6863E"
+      },
+      {
+        "id": "1:3",
+        "name": {
+          "en": "Red",
+          "sv": "Röd",
+          "da": "Rød"
+        },
+        "size": "0.5",
+        "hex": "#DA374A"
+      },
+      {
+        "id": "1:4",
+        "name": {
+          "en": "Blue",
+          "sv": "Blå",
+          "da": "Blå"
+        },
+        "size": "0.6",
+        "hex": "#54B9E2"
+      },
+      {
+        "id": "1:5",
+        "name": {
+          "en": "Yellow",
+          "sv": "Gul",
+          "da": "Gul"
+        },
+        "size": "0.7",
+        "hex": "#F9DE6D"
+      },
+      {
+        "id": "1:6",
+        "name": {
+          "en": "Green",
+          "sv": "Grön",
+          "da": "Grøn"
+        },
+        "size": "0.8",
+        "hex": "#59B057"
+      },
+      {
+        "id": "1:7",
+        "name": {
+          "en": "Purple",
+          "sv": "Lila",
+          "da": "Lilla"
+        },
+        "size": "0.8",
+        "hex": "#8F7DB5"
+      },
+      {
+        "id": "1:8",
+        "name": {
+          "en": "Grey",
+          "sv": "Grå",
+          "da": "Grå"
+        },
+        "size": "0.8",
+        "hex": "#A3ABB1"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": {
+      "en": "Interdental Extra Soft™",
+      "sv": "Interdental Extra Soft™",
+      "da": "Interdental Extra Soft™"
+    },
+    "catImg": "pink.png",
+    "data": [
+      {
+        "id": "2:1",
+        "name": {
+          "en": "Soft Pink",
+          "sv": "Mjuk Rosa",
+          "da": "Blød Pink"
+        },
+        "size": "0.4",
+        "hex": "#E9A3B4"
+      },
+      {
+        "id": "2:2",
+        "name": {
+          "en": "Soft Green",
+          "sv": "Mjuk Grön",
+          "da": "Blød grøn"
+        },
+        "size": "0.8",
+        "hex": "#8CAC89"
+      },
+      {
+        "id": "2:3",
+        "name": {
+          "en": "Soft Orange",
+          "sv": "Mjuk Orange",
+          "da": "Blød orange"
+        },
+        "size": "0.45",
+        "hex": "#FF6A13"
+      },
+      {
+        "id": "2:4",
+        "name": {
+          "en": "Soft Purple",
+          "sv": "Mjuk Lila",
+          "da": "Blød lilla"
+        },
+        "size": "1.1",
+        "hex": "#9873AC"
+      },
+      {
+        "id": "2:5",
+        "name": {
+          "en": "Soft Red",
+          "sv": "Mjuk Röd",
+          "da": "Blød rød"
+        },
+        "size": "0.5",
+        "hex": "#D50032"
+      },
+      {
+        "id": "2:6",
+        "name": {
+          "en": "Soft Yellow",
+          "sv": "Mjuk Gul",
+          "da": "Blød gul"
+        },
+        "size": "0.7",
+        "hex": "#F3DD6D"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": {
+      "en": "EasyPick™",
+      "sv": "EasyPick™",
+      "da": "EasyPick™"
+    },
+    "catImg": "green.png",
+    "data": [
+      {
+        "id": "3:1",
+        "name": {
+          "en": "",
+          "sv": "",
+          "da": ""
+        },
+        "size": "M/L",
+        "hex": "#3fb0d9"
+      },
+      {
+        "id": "3:2",
+        "name": {
+          "en": "",
+          "sv": "",
+          "da": ""
+        },
+        "size": "XL",
+        "hex": "#8879b6"
+      },
+      {
+        "id": "3:3",
+        "name": {
+          "en": "",
+          "sv": "",
+          "da": ""
+        },
+        "size": "XS/S",
+        "hex": "#e58841"
+      }
+    ]
+  }
+]

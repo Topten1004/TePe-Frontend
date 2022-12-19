@@ -1,0 +1,64 @@
+.ove-grid {
+  height: 620px;
+  margin-right: 20px;
+  border-radius: 10px;
+  border: 2px solid ($primaryMain);
+
+  .header {
+    display: flex;
+    height: 90px;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: hsla(180, 73%, 33%, 0.2);
+
+    img {
+      width: 80px;
+      margin-left: 30px;
+    }
+
+    h2 {
+      margin-left: 30px;
+      font-size: 26px;
+      font-weight: bold;
+      color: ($primaryMain);
+    }
+
+    .icon {
+      margin-left: 240px;
+      font-size: 30px;
+      font-weight: bold;
+      color: ($primaryMain);
+      cursor: 'pointer';
+    }
+  }
+
+  .product-scroll {
+    width: 100%;
+    height: 525px;
+    margin-top: 15px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    direction: ltr;
+    scrollbar-width: thin;
+
+    .content {
+      width: 100%;
+    }
+  }
+
+  .product-scroll::-webkit-scrollbar {
+    width: 20px;
+  }
+
+  .product-scroll::-webkit-scrollbar-track {
+    background-color: ($primaryLight);
+    border-radius: 100px;
+    margin: 5px 0;
+  }
+
+  .product-scroll::-webkit-scrollbar-thumb {
+    border-radius: 100px;
+    background: ($primaryDark);
+    box-shadow: inset 2px 2px 5px 0 rgba(#fff, 0.5);
+  }
+}

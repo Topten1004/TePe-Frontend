@@ -1,0 +1,23 @@
+.sum-container {
+  padding-top: 45px;
+  padding-left: 0px;
+  h3 {
+    font-size: 20px;
+    font-weight: normal;
+    color: ($primaryMain);
+  }
+
+  .summery {
+    padding-top: 16px;
+    padding-bottom: 32px;
+
+    h4 {
+      font-size: 16px;
+      font-weight: normal;
+    }
+  }
+
+  h5 {
+    padding-top: 8px;
+  }
+}

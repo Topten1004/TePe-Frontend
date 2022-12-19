@@ -1,0 +1,98 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+.wrapper-background {
+  background-repeat: no-repeat;
+  background-position: bottom 0px right 0px;
+  background-color: #a8daea;
+}
+
+.css-zow5z4-MuiGrid-root {
+  margin-top: 0px;
+  width: calc(100% + 0px);
+  margin-left: 0px;
+}
+
+.css-zow5z4-MuiGrid-root > .MuiGrid-item {
+  padding-left: 0px;
+}
+
+// ======================================================================== //
+/* LEFT GRID */
+.int-left-grid {
+  min-height: 100%;
+
+  h1 {
+    position: relative;
+    font-size: 56px;
+    line-height: 60px;
+    font-weight: bold;
+    text-align: left;
+    color: ($primaryMain);
+    z-index: 2;
+  }
+
+  h4 {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+    font-weight: normal;
+  }
+
+  .lang-dropdown {
+    height: 3rem;
+    border-radius: 0;
+  }
+
+  .start-button {
+    height: 3rem;
+    color: #ffffff;
+    background-color: ($primaryDark);
+    border-radius: 0;
+  }
+}
+
+// ======================================================================== //
+/* RIGHT GRID */
+.int-right-grid {
+  min-height: 100%;
+
+  .int-right-box {
+    position: relative;
+    margin-top: 70px;
+    padding-left: 50px;
+
+    .bg-img {
+      position: absolute;
+      margin: auto;
+      bottom: 0;
+    }
+
+    img {
+      max-width: 25%;
+      border-radius: 20px;
+      transform: scale(1.7);
+      z-index: -1;
+    }
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .int-left-grid {
+    h1 {
+      font-size: 26px !important;
+      line-height: 40px !important;
+    }
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .int-left-grid {
+    h1 {
+      font-size: 46px;
+    }
+  }
+}

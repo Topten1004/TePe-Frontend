@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "rvest.vs-code-prettier-eslint",
+        "dbaeumer.vscode-eslint"
+    ]
+}

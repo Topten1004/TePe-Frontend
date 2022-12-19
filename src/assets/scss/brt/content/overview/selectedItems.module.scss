@@ -1,0 +1,46 @@
+.sel-grid {
+  margin: auto;
+  margin-left: 16px;
+  padding: 0 16px;
+
+  img {
+    transform: rotate(-90deg);
+    margin-left: 64px;
+  }
+
+  .content {
+    padding: 10px;
+    margin-left: 50px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+
+    h2 {
+      font-size: 20px;
+      font-weight: normal;
+    }
+
+    h3 {
+      font-size: 20px;
+      font-weight: normal;
+      color: ($primaryMain);
+    }
+
+    h4 {
+      margin: 10px 0;
+      font-size: 14px;
+      font-weight: bold;
+    }
+  }
+
+  .btn-container {
+    margin-left: 10px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+  }
+
+  .del-button {
+    border-radius: 20px;
+  }
+}

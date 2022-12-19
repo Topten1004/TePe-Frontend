@@ -1,0 +1,16 @@
+{
+  "selected_teeth": {
+    "entire_teeth": "entire_teeth",
+    "upper_teeth": "upper_teeth",
+    "lower_teeth": "lower_teeth"
+  },
+  "recommend_desc": {
+    "entire_mouth": "entire_mouth",
+    "upper_row": "upper_row",
+    "lower_row": "lower_row",
+    "size": "Size",
+    "brush": "Brush",
+    "entire_prefix": "should be used for: ",
+    "gap_prefix": "should be used for the gap between teeth: "
+  }
+}

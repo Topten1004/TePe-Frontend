@@ -1,0 +1,34 @@
+.ins-container {
+  margin-top: 45px;
+  padding-left: 0px;
+  padding-right: 0px;
+
+  h3 {
+    font-size: 20px;
+    font-weight: normal;
+    color: ($primaryMain);
+  }
+
+  .radio-buttons {
+    margin-top: 16px;
+  }
+
+  h5 {
+    margin-top: 32px;
+  }
+
+  img {
+    margin-top: 24px;
+  }
+
+  .title {
+    margin-top: 32px;
+  }
+
+  .field {
+    width: 100%;
+    margin-top: 12px;
+    resize: none;
+    overflow-y: scroll;
+  }
+}

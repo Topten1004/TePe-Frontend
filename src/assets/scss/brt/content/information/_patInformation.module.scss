@@ -1,0 +1,15 @@
+.pat-container {
+  margin-top: 45px;
+  padding-left: 0px;
+  padding-right: 0px;
+
+  .title {
+    font-size: 20px;
+    font-weight: normal;
+    color: ($primaryMain);
+  }
+
+  .input {
+    border-radius: 0px;
+  }
+}

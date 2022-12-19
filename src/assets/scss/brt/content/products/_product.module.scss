@@ -1,0 +1,25 @@
+.prod-list-button {
+  padding-left: 0px;
+  background-color: transparent;
+
+  .list-item {
+    padding-left: 16px;
+
+    .title {
+      font-size: 20px;
+      font-weight: normal;
+      color: ($primaryMain);
+    }
+  }
+
+  img {
+    width: 21px;
+    height: 75px;
+  }
+
+  .list-icon {
+    margin-top: -0px;
+    margin-right: 8px;
+    color: ($primaryMain);
+  }
+}

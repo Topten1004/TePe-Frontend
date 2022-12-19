@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "country": "United Kingdom",
+    "locales": ["en", "sv", "da"],
+    "cta_url": "https://www.google.com",
+    "sender_phone": "+13393296902",
+    "banners": {
+      "headings": {
+        "first": {
+          "en": "First Heading",
+          "sv": "Första rubriken",
+          "da": "Første overskrift"
+        },
+        "second": {
+          "en": "Second Heading",
+          "sv": "Andra rubriken",
+          "da": "Anden overskrift"
+        }
+      },
+      "contents": {
+        "first": {
+          "en": "Ipsum dolor sit amet, consectetur adipiscing elit.",
+          "sv": "Ipsum dolor sit amet, consectetur adipiscing elit.",
+          "da": "Ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        "second": {
+          "en": "Tristique massa, in iaculis libero.",
+          "sv": "Tristique massa, in iaculis libero.",
+          "da": "Tristique massa, in iaculis libero."
+        }
+      },
+      "images": {
+        "first": "image1.jpg",
+        "second": "image2.jpg"
+      }
+    },
+    "categories": {
+      "include": ["1", "2", "3"]
+    }
+  },
+  {
+    "id": "2",
+    "country": "Sverige",
+    "locales": ["en", "sv", "da"],
+    "cta_url": "https://www.google.se",
+    "sender_phone": "+13393296902",
+    "banners": {
+      "headings": {
+        "first": {
+          "en": "First Heading",
+          "sv": "Första rubriken",
+          "da": "Første overskrift"
+        },
+        "second": {
+          "en": "Second Heading",
+          "sv": "Andra rubriken",
+          "da": "Anden overskrift"
+        }
+      },
+      "contents": {
+        "first": {
+          "en": "Ipsum dolor sit amet, consectetur adipiscing elit.",
+          "sv": "Ipsum dolor sit amet, consectetur adipiscing elit.",
+          "da": "Ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        "second": {
+          "en": "Tristique massa, in iaculis libero.",
+          "sv": "Tristique massa, in iaculis libero.",
+          "da": "Tristique massa, in iaculis libero."
+        }
+      },
+      "images": {
+        "first": "image1.jpg",
+        "second": "image2.jpg"
+      }
+    },
+    "categories": {
+      "include": ["1", "3:1", "3:2"]
+    }
+  },
+  {
+    "id": "3",
+    "country": "Danmark",
+    "locales": ["en", "sv", "da"],
+    "cta_url": "https://www.google.da",
+    "sender_phone": "+13393296902",
+    "banners": {
+      "headings": {
+        "first": {
+          "en": "First Heading",
+          "sv": "Första rubriken",
+          "da": "Første overskrift"
+        },
+        "second": {
+          "en": "Second Heading",
+          "sv": "Andra rubriken",
+          "da": "Anden overskrift"
+        }
+      },
+      "contents": {
+        "first": {
+          "en": "Ipsum dolor sit amet, consectetur adipiscing elit.",
+          "sv": "Ipsum dolor sit amet, consectetur adipiscing elit.",
+          "da": "Ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        "second": {
+          "en": "Tristique massa, in iaculis libero.",
+          "sv": "Tristique massa, in iaculis libero.",
+          "da": "Tristique massa, in iaculis libero."
+        }
+      },
+      "images": {
+        "first": "image1.jpg",
+        "second": "image2.jpg"
+      }
+    },
+    "categories": {
+      "include": ["1", "2", "3:2", "3:3"]
+    }
+  }
+]

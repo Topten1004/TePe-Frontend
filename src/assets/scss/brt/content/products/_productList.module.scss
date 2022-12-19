@@ -1,0 +1,31 @@
+.prod-item-outline {
+  border-radius: 50px;
+  margin-bottom: 10px;
+  border: 2px solid ($primaryLight);
+
+  .left-item {
+    margin-left: 16px;
+  }
+
+  .right-item {
+    margin-left: -128px;
+  }
+
+  .disabled-icon {
+    color: transparent;
+  }
+
+  .checked-icon {
+    color: ($primaryDark);
+  }
+
+  .assign-btn {
+    border-radius: 30px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .right-item {
+    margin-left: 0px !important;
+  }
+}
